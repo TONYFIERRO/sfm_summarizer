@@ -1,0 +1,13 @@
+gensim==4.3.1
+networkx==3.0
+nlp_rake==0.0.2
+numpy==1.24.2
+pyTelegramBotAPI==4.10.0
+rusenttokenize==0.0.5
+spacy==3.5.1
+sumy==0.11.0
+torch==2.0.0
+transformers==4.27.3
+yake==0.4.8
+nltk==3.8.1
+emoji==2.2.0

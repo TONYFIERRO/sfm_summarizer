@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+/venv
+.DS_Store
+__pycache__/
+.idea
+
+# W2V
+lenta-ru-news.csv
+words.csv

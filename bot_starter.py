@@ -152,7 +152,7 @@ def callback_inline(call: types.CallbackQuery) -> None:
             back = types.InlineKeyboardButton("Назад", callback_data='back_button')
             markup_back.add(back)
             bot.send_message(call.message.chat.id,
-                             f'Интеллектуальная система поиска основного смысла в тексте публицистического содержания,'
+                             f'Интеллектуальная система суммаризации публицистического текста на русском языке,'
                              f' 2023.'
                              f'\n\nАвтор: Зарипов Шамиль \nEmail: mail@tonyfierro.com \nTelegram: @tonyfierro',
                              reply_markup=markup_back)

@@ -11,19 +11,19 @@
                           8""88888P'  o888o        o8o        o888o   
 ```
 
-<h4 style="text-align: center;">Search For Meaning (SFM) –– is a summarizer for Russian language. </h4>
+<h4 style="text-align: center;">Search For Meaning (SFM) – is a summarizer for Russian language. </h4>
 
 The SFM based on an ensemble of the next extractive summarization algorithms:
-1. Importance Calculation, <br>
-2. TextRank, <br>
-3. LexRank, <br>
-4. Latent Semantic Analysis, <br>
-5. Luhn Algorithm, <br>
-6. The Minto Pyramid (Lead-based),<br>
-7. Features Calculation, <br>
-8. Word2Vec, <br>
+1. Importance Calculation. <br>
+2. TextRank. <br>
+3. LexRank. <br>
+4. Latent Semantic Analysis. <br>
+5. Luhn Algorithm. <br>
+6. The Minto Pyramid (Lead-based). <br>
+7. Features Calculation. <br>
+8. Word2Vec. <br>
 9. RuBERT. <br>
-10. 
+
 This project was deployed with help a *Telegram bot*.
 
 ## Installation
@@ -59,19 +59,23 @@ Or use the installation option *with Telegram bot* that uses *Docker-containeriz
 ## Demonstration
 
 <h4 style="text-align: center;">Changing the settings (part I): the bot requires a choice of the extraction coefficient.</h4>
-![1](screenshots/1.png)
+
+![the first](/screenshots/1.png)
 
 ---
 <h4 style="text-align: center;">Changing the settings (part II): the bot requires a mode selection.</h4>
-![2](screenshots/2.png)
+
+![the second](/screenshots/2.png)
 
 ---
 <h4 style="text-align: center;">The bot can show the current settings.</h4>
-![3](screenshots/3.png)
+
+![the third](/screenshots/3.png)
 
 ---
 <h4 style="text-align: center;">Just send a text to summarize it.</h4>
-![4](screenshots/4.png)
+
+![the forth](/screenshots/4.png)
 
 ## Disadvantages
 
